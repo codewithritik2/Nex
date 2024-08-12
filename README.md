@@ -7,7 +7,7 @@ Creating a Privacy Policy and Terms of Service for a Discord music bot requires 
 ## **Privacy Policy**
 
 ### **1. Introduction**
-This Privacy Policy outlines how [Your Bot's Name] ("the Bot") collects, uses, and protects the personal information of its users on the Discord platform.
+This Privacy Policy outlines how NeX collects, uses, and protects the personal information of its users on the Discord platform.
 
 ### **2. Information We Collect**
 - **User Data:** The Bot may collect user IDs, server IDs, and channel IDs to provide music-related services.
