@@ -30,7 +30,7 @@ We implement reasonable security measures to protect your data. However, no meth
 User data is retained for as long as necessary to provide services or comply with legal obligations. Data may be deleted at the user's request.
 
 ### **7. User Rights**
-Users have the right to request access to their data, request corrections, or request deletion of their data. To exercise these rights, please contact us via [Contact Method].
+Users have the right to request access to their data, request corrections, or request deletion of their data. To exercise these rights, please contact us via https://discord.gg/mZ3pkyRcU9
 
 ### **8. Changes to This Privacy Policy**
 We may update this Privacy Policy from time to time. Users will be notified of any significant changes through the Bot or the official support channels.
