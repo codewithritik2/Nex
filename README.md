@@ -36,7 +36,7 @@ Users have the right to request access to their data, request corrections, or re
 We may update this Privacy Policy from time to time. Users will be notified of any significant changes through the Bot or the official support channels.
 
 ### **9. Contact Information**
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions or concerns about this Privacy Policy, please contact us at https://discord.gg/mZ3pkyRcU9.
 
 ---
 
